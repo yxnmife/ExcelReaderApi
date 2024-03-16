@@ -1,0 +1,6 @@
+@WebExcelReader_HostAddress = http://localhost:5298
+
+GET {{WebExcelReader_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

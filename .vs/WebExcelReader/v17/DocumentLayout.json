@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oluwayanmife.ayeni\\OneDrive - United Capital Plc\\Documents\\ASP.NET\\WebExcelReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB1F0A08-3169-41DF-BEEF-84C186583ADF}|WebExcelReader\\WebExcelReader.csproj|c:\\users\\oluwayanmife.ayeni\\onedrive - united capital plc\\documents\\asp.net\\webexcelreader\\webexcelreader\\controllers\\excelreadercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB1F0A08-3169-41DF-BEEF-84C186583ADF}|WebExcelReader\\WebExcelReader.csproj|solutionrelative:webexcelreader\\controllers\\excelreadercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelReaderController.cs",
+              "DocumentMoniker": "C:\\Users\\Oluwayanmife.ayeni\\OneDrive - United Capital Plc\\Documents\\ASP.NET\\WebExcelReader\\WebExcelReader\\Controllers\\ExcelReaderController.cs",
+              "RelativeDocumentMoniker": "WebExcelReader\\Controllers\\ExcelReaderController.cs",
+              "ToolTip": "C:\\Users\\Oluwayanmife.ayeni\\OneDrive - United Capital Plc\\Documents\\ASP.NET\\WebExcelReader\\WebExcelReader\\Controllers\\ExcelReaderController.cs",
+              "RelativeToolTip": "WebExcelReader\\Controllers\\ExcelReaderController.cs",
+              "ViewState": "AQIAAJAAAAAAzMzMzMwQwJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T13:57:18.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

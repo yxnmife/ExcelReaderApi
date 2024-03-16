@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "WebExcelReader.Controllers.ExcelReaderController",
+    "Method": "ReadExcel",
+    "RelativePath": "api/ExcelReader/ReadExcel",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebExcelReader.Controllers.ReadDbController",
+    "Method": "GetDatabaseRecords",
+    "RelativePath": "api/ReadDb",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

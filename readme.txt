@@ -1,0 +1,1 @@
+so when building a .net web api to read and excel file, send names from the file to an Api, the store the data associated with each name in the database. I have to create 2 model classes, one for the fields in the database and the other for the data being returned by the Api
